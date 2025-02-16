@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB300\uD559\uAD50\\\uBA58\uD1A0\uB9C1\\\uD14C\uD2B8\uB9AC\uC2A4\\WinAPI\\WinAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39ECD1-FC91-4221-ABCD-201064E99AB3}|WinAPI\\WinAPI.vcxproj|C:\\Users\\User\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB300\uD559\uAD50\\\uBA58\uD1A0\uB9C1\\\uD14C\uD2B8\uB9AC\uC2A4\\WinAPI\\WinAPI\\WinAPI\\WinAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F39ECD1-FC91-4221-ABCD-201064E99AB3}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\WinAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39ECD1-FC91-4221-ABCD-201064E99AB3}|WinAPI\\WinAPI.vcxproj|C:\\Users\\User\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB300\uD559\uAD50\\\uBA58\uD1A0\uB9C1\\\uD14C\uD2B8\uB9AC\uC2A4\\WinAPI\\WinAPI\\WinAPI\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F39ECD1-FC91-4221-ABCD-201064E99AB3}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB300\uD559\uAD50\\\uBA58\uD1A0\uB9C1\\\uD14C\uD2B8\uB9AC\uC2A4\\WinAPI\\WinAPI\\WinAPI\\FileName.cpp",
+              "RelativeDocumentMoniker": "WinAPI\\FileName.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB300\uD559\uAD50\\\uBA58\uD1A0\uB9C1\\\uD14C\uD2B8\uB9AC\uC2A4\\WinAPI\\WinAPI\\WinAPI\\FileName.cpp",
+              "RelativeToolTip": "WinAPI\\FileName.cpp",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAowN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T08:11:00.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinAPI.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB300\uD559\uAD50\\\uBA58\uD1A0\uB9C1\\\uD14C\uD2B8\uB9AC\uC2A4\\WinAPI\\WinAPI\\WinAPI\\WinAPI.cpp",
+              "RelativeDocumentMoniker": "WinAPI\\WinAPI.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB300\uD559\uAD50\\\uBA58\uD1A0\uB9C1\\\uD14C\uD2B8\uB9AC\uC2A4\\WinAPI\\WinAPI\\WinAPI\\WinAPI.cpp",
+              "RelativeToolTip": "WinAPI\\WinAPI.cpp",
+              "ViewState": "AQIAAOICAAAAAAAAAAAAAAYDAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T07:06:02.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
